@@ -1,0 +1,18 @@
+body {
+  background-color: rgba(6, 6, 59, 0.658);
+}
+.fonte-especial {
+  color: blueviolet;
+}
+.fonte-especial2 {
+  color: blueviolet;
+}
+input::placeholder {
+  color: blueviolet;
+}
+h2 {
+  color: tomato;
+}
+button {
+  color: rgb(1, 1, 53);
+}
